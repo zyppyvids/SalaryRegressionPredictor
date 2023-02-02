@@ -23,3 +23,5 @@ Experience in ML and interest in the topic of salaries in the IT community in Bu
 
 ## Usage
 _To use just write `regression.predict([[<current_experience>, <overall_experience>]])`_
+
+_Also you can find the exported model in the file `salaries_model`. To load you just use `joblib` or `pickle`._
