@@ -25,3 +25,7 @@ Experience in ML and interest in the topic of salaries in the IT community in Bu
 _To use just write `regression.predict([[<current_experience>, <overall_experience>]])`_
 
 _Also you can find the exported model in the file `salaries_model`. To load you just use `joblib` or `pickle`._
+
+## The quiz
+The actual quiz link is this: https://forms.gle/DtrqtqhVPFMwUKEN9
+The data I used was downloaded from here: https://docs.google.com/spreadsheets/d/1IQzXpxClHIv5iDbg9tgruY4-Hg9wehOj3u1sXVoa-UQ/edit#gid=730733635
