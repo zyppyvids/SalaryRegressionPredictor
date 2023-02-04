@@ -36,6 +36,6 @@ Useful links:
 * Could be changed in the future as I am learning new things and becoming better at the subject;
 
 ## Version
-The version will be incremented on major changes
+The version will be incremented on major changes.
 
 _v. 0.0.2_
