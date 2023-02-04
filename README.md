@@ -30,3 +30,12 @@ _Also you can find the exported model in the file `salaries_model`. To load you 
 Useful links:
 * The actual quiz link is this: https://forms.gle/DtrqtqhVPFMwUKEN9
 * The data I used was downloaded from here: https://docs.google.com/spreadsheets/d/1IQzXpxClHIv5iDbg9tgruY4-Hg9wehOj3u1sXVoa-UQ/edit#gid=730733635
+
+## Notes
+* The predictions should not be taken into consideration because this is not a complex model and is most probably predicting wrong (its score is 12% which is not okay);
+* Could be changed in the future as I am learning new things and becoming better at the subject;
+
+## Version
+The version will be incremented on major changes
+
+_v. 0.0.2_
