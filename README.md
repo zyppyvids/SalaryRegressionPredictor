@@ -37,4 +37,4 @@ Useful links:
 ## Version
 The version will be incremented on major changes.
 
-_v. 0.1.0_
+_v. 0.1.1_
